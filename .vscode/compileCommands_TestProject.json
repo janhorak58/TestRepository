@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\TestProject\\\\TestProject\\\\Source\\\\TestProject\\\\TestProject.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\TestProject\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\TestProject\\\\TestProject\\\\Source\\\\TestProject\\\\TestProject.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\TestProject\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\TestProject\\\\TestProject\\\\Source\\\\TestProject\\\\TestProject.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\TestProject\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\TestProject\\\\TestProject\\\\Source\\\\TestProject\\\\TestProjectGameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\TestProject\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\TestProject\\\\TestProject\\\\Source\\\\TestProject\\\\TestProjectGameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\TestProject\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
